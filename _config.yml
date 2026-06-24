@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 ## Site Author
 author:
   name             : "Zhengbing He"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "assets/images/bio-photo.jpg"
   bio              : "Professor in Autonomous and Intelligent Systems"
   location         : "Ningbo, China"
   employer         : "University of Nottingham Ningbo China"
